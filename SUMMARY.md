@@ -12,5 +12,5 @@
 * [考生考试](docs/candidate.md)
 * [多账户管理](docs/operator.md)
 * [版本更新](docs/releasenote.md)
-* [QQ咨询](docs/basic.md)
+* [QQ咨询](docs/qq.md)
 
