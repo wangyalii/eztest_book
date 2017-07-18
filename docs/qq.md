@@ -14,4 +14,5 @@
 
 .. image:: _static/qq.png
 	:target: `QQ咨询`_
-![PNG](_static/group.png)[](http://docs.eztest.org/zh_CN/latest/items.html#id2)
+![PNG](_static/group.png)
+[![PNG](_static/group.png)](http://docs.eztest.org/zh_CN/latest/items.html#id2)
