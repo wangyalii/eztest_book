@@ -34,7 +34,7 @@
 
 一份普通试卷可包含多个单元，单元可以设置限时，超过时间自动结束该单元。
 
-![PNG](https://wangyalii.gitbooks.io/eztest_book/content/docs/_static/2-1.png)
+![PNG](https://github.com/wangyalii/eztest_book/blob/master/_static/2-1.png)
 
 每个单元可以包含一个或多个大题，每个大题可以包含多个试题。试题中的复合题可以包含多个小题，填空题的每一个填空项也视为一个小题。
 
