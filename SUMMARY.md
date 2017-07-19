@@ -15,6 +15,7 @@
     * [准考证](docs/exam.md#准考证)
     * [考生信息采集](docs/exam.md#考生信息采集)
     * [考试配置](docs/exam.md#考试配置)
+        * [易考有哪些考试配置？](docs/exam.md#考试配置##易考有哪些考试配置？)
     * [考试地址](docs/exam.md#考试地址)
     * [考生答题管理](docs/exam.md#考生答题管理)
     * [批量操作](docs/exam.md#批量操作)
