@@ -6,21 +6,12 @@
         }
     },
     "plugins": [
-    	"-sharing"
-  ],
-    "plugins": [
     	"splitter"
-  ],
-    "plugins": [
-    	"edit-link"
-  ],
-    "plugins": [
-    	"simple-page-toc"
-  ],
-    "plugins": [
-    	"mzlogin/vim-markdown-toc"
   ],
    "plugins": [
    		"expandable-chapters-small"
+  ],
+    "plugins": [
+    	"simple-page-toc@^0.1.1"
   ]
 } 
