@@ -1,8 +1,14 @@
 {
-  "plugins": [
-    "splitter"
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Home": "https://eztest.org/"
+        }
+    },
+    "plugins": [
+    	"splitter"
   ],
    "plugins": [
-   "expandable-chapters-small"
+   		"expandable-chapters-small"
   ]
-}
+} 

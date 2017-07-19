@@ -2,16 +2,7 @@
 
 * [易考](README.md)
 * [入门](docs/basic.md)
-    * [浏览器]
-    * [易考注册]
-    * [快速开始]
-    * [密码管理]
-    * [控制台]
 * [试卷](docs/form.md)
-    * [题型](docs/form.md/# 题型 #)
-      * [yaaa](ssss)
-    * [试卷结构]
-    * [试卷编辑]
 * [考试](docs/exam.md)
 * [报名](docs/enroll.md)
 * [题库](docs/pool.md)
