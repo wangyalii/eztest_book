@@ -6,6 +6,9 @@
         }
     },
     "plugins": [
+    	"-sharing"
+  ],
+    "plugins": [
     	"splitter"
   ],
     "plugins": [
