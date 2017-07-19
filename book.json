@@ -17,6 +17,9 @@
     "plugins": [
     	"simple-page-toc"
   ],
+    "plugins": [
+    	"mzlogin/vim-markdown-toc"
+  ],
    "plugins": [
    		"expandable-chapters-small"
   ]
