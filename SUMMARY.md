@@ -2,6 +2,8 @@
 
 * [易考](README.md)
 * [入门](docs/basic.md)
+    * [浏览器](docs/basic.md#浏览器)
+    * [易考注册](docs/basic.md#易考注册)
 * [试卷](docs/form.md)
 * [考试](docs/exam.md)
 * [报名](docs/enroll.md)
