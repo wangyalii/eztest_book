@@ -8,6 +8,9 @@
     "plugins": [
     	"splitter"
   ],
+    "plugins": [
+    	"edit-link"
+  ],
    "plugins": [
    		"expandable-chapters-small"
   ]
