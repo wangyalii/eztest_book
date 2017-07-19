@@ -14,6 +14,9 @@
     "plugins": [
     	"edit-link"
   ],
+    "plugins": [
+    	"simple-page-toc"
+  ],
    "plugins": [
    		"expandable-chapters-small"
   ]
