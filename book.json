@@ -8,10 +8,10 @@
     "plugins": [
     	"splitter"
       ],
-   "plugins": [
-   		"expandable-chapters-small"
-      ],
     "plugins": [
     	"simple-page-toc"
+      ],
+    "plugins": [
+   		"expandable-chapters-small"
   ]
 } 
