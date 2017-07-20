@@ -7,11 +7,11 @@
     },
     "plugins": [
     	"splitter"
-  ],
+      ],
    "plugins": [
    		"expandable-chapters-small"
-  ],
+      ],
     "plugins": [
-    	"simple-page-toc@^0.1.1"
+    	"simple-page-toc"
   ]
 } 
