@@ -34,7 +34,7 @@
     * [题库管理](docs/pool.md#题库管理)
     * [添加试题](docs/pool.md#添加试题)
     * [题库分享](docs/pool.md#题库分享)
-    * [使用Word导入试题](docs/pool.md#使用Word导入试题)
+    * [文档导入试题](docs/pool.md#文档导入试题)
 * [组卷](docs/template.md)
     * [组卷模版](docs/template.md#组卷模版)
     * [抽卷](docs/template.md#抽卷)
